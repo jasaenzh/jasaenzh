@@ -3,7 +3,9 @@
 # **Hola, Soy [Jhony Alberto Saenz Hurtado](https://www.linkedin.com/in/jhony-saenz-hurtado/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
 
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+Tecnólogo en Sistemas de Información y actualmente estudiante de Ingeniería de Software incursionando en el apasionante mundo de la programación como FullStack Developer.
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasaenzh&label=Profile%20views&color=0e75b6&style=flat" alt="jasaenzh" /> </p>
 
