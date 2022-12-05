@@ -11,21 +11,26 @@ Tecnólogo en Sistemas de Información y actualmente estudiante de Ingeniería d
 
 
 
-- 🔭 I’m currently working on [rent-ten](https://github.com/raulereno/rent-ten)
+- 🔭 Actualmente estoy trabajando en [rent-ten](https://github.com/raulereno/rent-ten)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 Actualmente estoy aprendiendo **Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jasaenzh?tab=repositories](https://github.com/jasaenzh?tab=repositories)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/jasaenzh?tab=repositories](https://github.com/jasaenzh?tab=repositories)
 
-- 💬 Ask me about **postgresql, express, react node.js**
+- 💬 Preguntame sobre **postgresql, express, react node.js**
 
-
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jhony-saenz-hurtado/](https://www.linkedin.com/in/jhony-saenz-hurtado/)
+- 📄 Conoce mis experiencias [https://www.linkedin.com/in/jhony-saenz-hurtado/](https://www.linkedin.com/in/jhony-saenz-hurtado/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jhony-saenz-hurtado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhony-saenz-hurtado/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jhony-saenz-hurtado/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhony-saenz-hurtado/" height="30" width="40" />
+ </a>
+  
+  <a href="https://jash0310@gmail.com">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+      jash0310@gmail.com
+  </a> 
 </p>
 
 ## Lenguajes y herramientas
