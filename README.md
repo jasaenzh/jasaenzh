@@ -10,6 +10,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/jasaenzh?tab=repositories](https://github.com/jasaenzh?tab=repositories)
 
 - 💬 Ask me about **postgresql, express, react node.js**
+![portada](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jhony-saenz-hurtado/](https://www.linkedin.com/in/jhony-saenz-hurtado/)
 
