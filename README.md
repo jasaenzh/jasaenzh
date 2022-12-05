@@ -84,12 +84,8 @@ Tecnólogo en Sistemas de Información y actualmente estudiante de Ingeniería d
 
 ## Idiomas más usados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasaenzh" alt="jasaenzh" /></a> </p>
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jhony-saenz-hurtado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhony-saenz-hurtado/" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasaenzh&show_icons=true&locale=en&layout=compact" alt="jasaenzh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasaenzh&show_icons=true&locale=en" alt="jasaenzh" /></p>
