@@ -30,6 +30,7 @@ Tecnólogo en Sistemas de Información y actualmente estudiante de Ingeniería d
   
   <a href="https://jash0310@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+    jash0310@gmail.com
   </a> 
 </p>
 
