@@ -24,8 +24,8 @@ Tecnólogo en Sistemas de Información y actualmente estudiante de Ingeniería d
 ## Contáctame 📫
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jhony-saenz-hurtado/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhony-saenz-hurtado/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/jhony-saenz-hurtado/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhony-saenz-hurtado/" height="30" width="40" />jhony-saenz-hurtado
  </a>
   
   <br>
