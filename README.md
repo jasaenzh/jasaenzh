@@ -89,3 +89,5 @@ Tecnólogo en Sistemas de Información y actualmente estudiante de Ingeniería d
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasaenzh&show_icons=true&locale=en&layout=compact" alt="jasaenzh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasaenzh&show_icons=true&locale=en" alt="jasaenzh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasaenzh&" alt="jasaenzh" /></p>
