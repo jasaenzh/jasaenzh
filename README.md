@@ -82,9 +82,7 @@ Tecnólogo en Sistemas de Información y actualmente estudiante de Ingeniería d
 
 </p>
 
-## Idiomas más usados
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasaenzh" alt="jasaenzh" /></a> </p>
+## Lenguajes más usados
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasaenzh&show_icons=true&locale=en&layout=compact" alt="jasaenzh" /></p>
 
