@@ -1,6 +1,8 @@
 ![portada](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
-<h1 align="center">Hi 👋, I'm Jhony Saenz</h1>
+# **Hola, Soy [Jhony Alberto Saenz Hurtado](https://www.linkedin.com/in/emanuel-juri/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+
+
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasaenzh&label=Profile%20views&color=0e75b6&style=flat" alt="jasaenzh" /> </p>
