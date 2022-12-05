@@ -25,14 +25,13 @@ Tecnólogo en Sistemas de Información y actualmente estudiante de Ingeniería d
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jhony-saenz-hurtado/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhony-saenz-hurtado/" height="30" width="40" />jhony-saenz-hurtado
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhony-saenz-hurtado/" height="30" width="40" />
  </a>
   
   <br>
   
   <a href="https://jash0310@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-    jash0310@gmail.com
   </a> 
 </p>
 
